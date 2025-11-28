@@ -1,1 +1,0 @@
-# VirtualTryOn_community
